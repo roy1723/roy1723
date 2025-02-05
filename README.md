@@ -1,6 +1,5 @@
 # 💫 About Me:
-Currently i am an undergrad in AI&DS<br>Talking about my achievements My project have been published in newspapers and i even have won a hackathon<br>My main skill stack are python, data visualization, numpy, pandas, and machine learning but on top of that i am eager to learn more<br>
-
+As for me, My name is Sahil Banerjee currently an undergrad in Bachelor of Technology in Artificial Intelligence and Data Science. Throughout my life, I am deeply fascinated by the world of technologies and their way of making life easier and much simpler. This hunger for technologies has driven me to explore various fields within AI, from machine learning to computer vision, and has shaped my academic and professional interests.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_shlbnrj_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-banerjee-223825226/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilbanerjee51@gmail.com) 
